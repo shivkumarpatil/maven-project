@@ -216,5 +216,9 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-
+<dependency>
+  <groupId>com.example.maven-project</groupId>
+  <artifactId>maven-project</artifactId>
+  <version>1.0-20200527.085532-1</version>
+</dependency>
 </project>
